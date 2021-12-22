@@ -4,3 +4,5 @@ Este es un repositorio de ejemplo para la clase de git y github en el diplomado 
 Este mensaje es el primer commit para ejemplificar el uso de github desktop y mostrar las logicas de git
 
 Este mensaje es para ejemplifica el uso de Visual Studio Code y source control.
+
+Este mensaje es para ejemplificar el uso de la extension de GitHub en VisualStudio Code.
