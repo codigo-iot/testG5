@@ -6,3 +6,7 @@ Este mensaje es el primer commit para ejemplificar el uso de github desktop y mo
 Este mensaje es para ejemplifica el uso de Visual Studio Code y source control.
 
 Este mensaje es para ejemplificar el uso de la extension de GitHub en VisualStudio Code.
+
+Esta linea la he escrito con nano desde la termina de ubuntu.
+
+Esta linea la he escrito con visual studio code, pero la registraré con terminal.
