@@ -12,3 +12,5 @@ Esta linea la he escrito con nano desde la termina de ubuntu.
 Esta linea la he escrito con visual studio code, pero la registraré con terminal.
 
 Este mensaje es para verificar si realice bien la estructura
+
+Este mensaje es para ejemplificar el uso de extension de Github en visualstudio code
